@@ -8,3 +8,6 @@
 
 ## Funcionalidades
 [Descripción funcionalidades](https://github.com/Molvilada/Pruebas_E2E_Grupo_17/wiki/Funcionalidades)
+
+## Escenarios de prueba
+[Descripción escenarios de prueba](https://github.com/Molvilada/Pruebas_E2E_Grupo_17/wiki/Escenarios-de-prueba)
