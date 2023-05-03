@@ -7,4 +7,4 @@
 - Wilmar Julian Puentes
 
 ## Funcionalidades
-[Descripción funcionalidades](https://github.com/Molvilada/Pruebas_E2E_Grupo_22/wiki/Funcionalidades)
+[Descripción funcionalidades](https://github.com/Molvilada/Pruebas_E2E_Grupo_17/wiki/Funcionalidades)
