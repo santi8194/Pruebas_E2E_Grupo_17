@@ -14,8 +14,8 @@
 
 ## Escenarios probados con Cypress
 
-Para mantener organizados los scripts de los 20 escenarios de prueba en Cypress, creamos un repositorio independiente. [Link repositorio](https://github.com/Molvilada/Pruebas_E2E_Cypress)
+Para mantener organizados los scripts en Cypress de los 20 escenarios de prueba, creamos un repositorio independiente. [Link repositorio](https://github.com/Molvilada/Pruebas_E2E_Cypress)
 
 ## Escenarios probados con Kraken
 
-Para mantener organizados los scripts de los 20 escenarios de prueba en Kraken, creamos un repositorio independiente. [Link repositorio](https://github.com/Molvilada/Pruebas_E2E_Kraken)
+Para mantener organizados los scripts en Kraken de los 20 escenarios de prueba, creamos un repositorio independiente. [Link repositorio](https://github.com/Molvilada/Pruebas_E2E_Kraken)
