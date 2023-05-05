@@ -1,5 +1,7 @@
 # Pruebas E2E Grupo 17
 
+Este repositorio fue creado con el propósito de presentarlo como entrega correspondiente a la semana 5 de la asignatura Pruebas Automatizadas de Software.
+
 ## Integrantes del grupo
 - Santiago Alvarez Soto
 - Camilo Ramírez Restrepo
@@ -13,9 +15,8 @@
 [Descripción escenarios de prueba](https://github.com/Molvilada/Pruebas_E2E_Grupo_17/wiki/Escenarios-de-prueba)
 
 ## Escenarios probados con Cypress
-
-Para mantener organizados los scripts en Cypress de los 20 escenarios de prueba, creamos un repositorio independiente. [Link repositorio](https://github.com/Molvilada/Pruebas_E2E_Cypress)
+Para mantener en un solo lugar los scripts en Cypress de los 20 escenarios de prueba, creamos un repositorio independiente. El README del repositorio explica cómo se pueden ejecutar los scripts correspondientes. [Link repositorio](https://github.com/Molvilada/Pruebas_E2E_Cypress)
 
 ## Escenarios probados con Kraken
 
-Para mantener organizados los scripts en Kraken de los 20 escenarios de prueba, creamos un repositorio independiente. [Link repositorio](https://github.com/Molvilada/Pruebas_E2E_Kraken)
+Para mantener en un solo lugar los scripts en Kraken de los 20 escenarios de prueba, creamos un repositorio independiente. El README del repositorio explica cómo se pueden ejecutar los scripts correspondientes [Link repositorio](https://github.com/Molvilada/Pruebas_E2E_Kraken)
