@@ -1,6 +1,6 @@
 # Pruebas E2E Grupo 17
 
-Este repositorio fue creado con el propósito de presentarlo como entrega correspondiente a la semana 5 de la asignatura Pruebas Automatizadas de Software.
+Este repositorio fue creado como parte de la entrega correspondiente a la semana 5 de la asignatura de Pruebas Automatizadas de Software.
 
 ## Integrantes del grupo
 - Santiago Alvarez Soto
