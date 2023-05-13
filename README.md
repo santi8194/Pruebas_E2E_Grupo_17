@@ -72,8 +72,8 @@ Se encontraron 5 diferencias visuales que reportamos en el sistema de incidencia
 
 [Pros/Contras Resemble y Backstop](https://github.com/santi8194/Pruebas_VRT_Grupo_17/wiki/Pros-Contras-Resemble-y-Backstop)
 
---
+---
 
 **7. Link a video de explicación de procedimiento realizado en la semana para habilitar la toma de pantallazos, las decisiones tomadas respecto a la construcción del reporte y breve explicación de los resultados obtenidos en la semana**
 
-[Link video]
+[Link video](https://uniandes-my.sharepoint.com/:v:/g/personal/ld_molina11_uniandes_edu_co/EfqRkdFEmj1PoJczuY8G-BwBqMtWqKmC2BwnX59zVWhLkw?e=62QXkY)
