@@ -9,6 +9,13 @@ Este repositorio fue creado como parte de la entrega correspondiente a la semana
 - Laura Daniela Molina
 - Wilmar Julian Puentes
 
+
+## Funcionalidades
+[Descripción funcionalidades](https://github.com/Molvilada/Pruebas_E2E_Grupo_17/wiki/Funcionalidades)
+
+## Escenarios de prueba
+[Descripción escenarios de prueba](https://github.com/Molvilada/Pruebas_E2E_Grupo_17/wiki/Escenarios-de-prueba)
+
 ## Resumen actividades:
 
 **1. Implementar la toma de screenshots al interior de las pruebas ya existentes. Tengan en cuenta que el objetivo final de esta fase es realizar comparación de dichos screenshots por lo tanto, los scrennshots se deben tomar después de cada paso ejecutado:**
