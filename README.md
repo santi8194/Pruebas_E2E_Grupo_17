@@ -45,16 +45,11 @@ Se ejecutaron los scripts modificados y se generaron los screenshots por cada pa
 
 **4. Construir un reporte HTML mediante un script en el lenguaje de su preferencia, que de forma automática, dadas dos carpetas de ejecución de pruebas, analice los resultados de cada paso y presente: los pasos, los screenshots en ambas versiones y las diferencias visuales.**
 
+Para la construcción del reporte se decidió utilizar la herramienta *Resemble.js*. Para el reporte se decidió crear un repositio aparte ([link repositorio](https://github.com/santi8194/Pruebas_VRT_Resemble)). 
+El reporte está en la carpeta *reports*. Los pasos de ejecución del repositorio están en el readme del mismo.
+
 ---
 
 **5. Si encuentran diferencias visuales,repórtenlas en el sistema de registro de incidencias (una incidencia por diferencia encontrada):**
 
 ---
-
-
-## Escenarios probados con Cypress
-Para mantener en un solo lugar los scripts en Cypress de los 20 escenarios de prueba, creamos un repositorio independiente. El README del repositorio explica cómo se pueden ejecutar los scripts correspondientes. [Link repositorio](https://github.com/Molvilada/Pruebas_E2E_Cypress)
-
-## Escenarios probados con Kraken
-Para mantener en un solo lugar los scripts en Kraken de los 20 escenarios de prueba, creamos un repositorio independiente. El README del repositorio explica cómo se pueden ejecutar los scripts correspondientes [Link repositorio](https://github.com/Molvilada/Pruebas_E2E_Kraken)
-
